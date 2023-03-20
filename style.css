@@ -1,0 +1,70 @@
+body{
+    overflow: hidden;
+    background-image: url(https://th.bing.com/th/id/R.eea3608ffa26f83b10d7485e185e0566?rik=hYAa169Z%2foEfmw&riu=http%3a%2f%2fhotemailtemplates.com%2ftemplates%2fFree%2fwallpapers%2f1680x1050%2fGlowing+Background.jpg&ehk=4UcNfGqROnpGSnAd7jM7l90yxj736o0UvkM1qhObSpg%3d&risl=&pid=ImgRaw&r=0);
+    margin: 0px;
+}
+
+
+nav{
+    background-color:black;
+    display: flex;
+    justify-content: space-between ;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 1200px;
+}
+
+nav ul li {
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: all 0.2 ease-in-out;
+    
+}
+
+nav ul li a:hover{
+    color:orange;
+}
+
+
+#para{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+    margin: 300px 700px auto;
+    width: 40%;
+    text-align: center;
+    line-height: 25px;
+}
+#btn{
+    text-decoration: none;
+    margin: 15px 950px;
+    width: 7%;
+    padding: 5px;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    background-color:orange;
+    border-radius: 0px 0px 10px 0px;
+    border-color: white;
+    border-style: solid;
+    border size: 5px;
+    
+}
+
+#btn:hover{
+    color: aliceblue;
+    transition: ease-in-out;
+}
+
